@@ -1,0 +1,3 @@
+const darkColors = {};
+
+export {darkColors};
